@@ -1,0 +1,8 @@
+name: oldmcdonald
+main: com.ivalicemud.oldmcdonald.Oldmcdonald
+version: 1.1
+
+commands:
+   old:
+      description: Output the Config for Old McDonald
+      usage: /old
